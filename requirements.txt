@@ -2,6 +2,7 @@ streamlit
 numpy
 pillow
 deep-translator
+google-genai
 google-generativeai
 tensorflow==2.15.1
 keras==2.15.0
