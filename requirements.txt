@@ -1,0 +1,7 @@
+streamlit
+numpy
+pillow
+deep-translator
+google-generativeai
+tensorflow
+keras
